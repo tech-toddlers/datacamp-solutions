@@ -45,4 +45,6 @@
   * [The Normal PDF](untitled/the-normal-pdf.md)
   * [Normal CDF](untitled/normal-cdf.md)
   * [Gauss and the 10 Deutschmark banknote](untitled/gauss-and-the-10-deutschmark-banknote.md)
+  * [Are the Belmont Stakes results Normally distributed?](untitled/are-the-belmont-stakes-results-normally-distributed.md)
+  * [What are the chances of a horse matching or beating Secretariat's record?](untitled/what-are-the-chances-of-a-horse-matching-or-beating-secretariats-record.md)
 

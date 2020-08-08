@@ -39,5 +39,8 @@
   * [Relationship between Binomial and Poisson distributions](thinking-probabilistically-discrete-variables/relationship-between-binomial-and-poisson-distributions.md)
   * [How many no-hitters in a season?](thinking-probabilistically-discrete-variables/how-many-no-hitters-in-a-season.md)
   * [Was 2015 anomalous?](thinking-probabilistically-discrete-variables/was-2015-anomalous.md)
-* [Untitled](untitled.md)
+* [Thinking probabilistically-- Continuous variables](untitled/README.md)
+  * [Interpreting PDFs](untitled/interpreting-pdfs.md)
+  * [Interpreting CDFs](untitled/interpreting-cdfs.md)
+  * [The Normal PDF](untitled/the-normal-pdf.md)
 

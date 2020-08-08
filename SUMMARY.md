@@ -44,4 +44,5 @@
   * [Interpreting CDFs](untitled/interpreting-cdfs.md)
   * [The Normal PDF](untitled/the-normal-pdf.md)
   * [Normal CDF](untitled/normal-cdf.md)
+  * [Gauss and the 10 Deutschmark banknote](untitled/gauss-and-the-10-deutschmark-banknote.md)
 

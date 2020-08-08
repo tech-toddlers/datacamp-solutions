@@ -17,4 +17,11 @@
   * [Computing means](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-means.md)
   * [Computing percentiles](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-percentiles.md)
   * [Comparing percentiles to ECDF](introduction-to-summary-statistics-the-sample-mean-and-median/intro/comparing-percentiles-to-ecdf.md)
+  * [Box-and-whisker plot](introduction-to-summary-statistics-the-sample-mean-and-median/intro/box-and-whisker-plot.md)
+  * [Computing the variance](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-the-variance.md)
+  * [The standard deviation and the variance](introduction-to-summary-statistics-the-sample-mean-and-median/intro/the-standard-deviation-and-the-variance.md)
+  * [Scatter plots](introduction-to-summary-statistics-the-sample-mean-and-median/intro/scatter-plots.md)
+  * [Variance and covariance by looking](introduction-to-summary-statistics-the-sample-mean-and-median/intro/variance-and-covariance-by-looking.md)
+  * [Computing the covariance](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-the-covariance.md)
+  * [Computing the Pearson correlation coefficient](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-the-pearson-correlation-coefficient.md)
 

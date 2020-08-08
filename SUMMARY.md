@@ -38,5 +38,6 @@
   * [Plotting the Binomial PMF](thinking-probabilistically-discrete-variables/plotting-the-binomial-pmf.md)
   * [Relationship between Binomial and Poisson distributions](thinking-probabilistically-discrete-variables/relationship-between-binomial-and-poisson-distributions.md)
   * [How many no-hitters in a season?](thinking-probabilistically-discrete-variables/how-many-no-hitters-in-a-season.md)
+  * [Was 2015 anomalous?](thinking-probabilistically-discrete-variables/was-2015-anomalous.md)
 * [Untitled](untitled.md)
 

@@ -33,4 +33,5 @@
   * [Generating random numbers](thinking-probabilistically-discrete-variables/generating-random-numbers.md)
   * [The np.random module and Bernoulli trials](thinking-probabilistically-discrete-variables/the-np.random-module-and-bernoulli-trials.md)
   * [How many defaults might we expect?](thinking-probabilistically-discrete-variables/how-many-defaults-might-we-expect.md)
+  * [Will the bank fail?](thinking-probabilistically-discrete-variables/will-the-bank-fail.md)
 

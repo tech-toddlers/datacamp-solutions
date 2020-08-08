@@ -43,4 +43,5 @@
   * [Interpreting PDFs](untitled/interpreting-pdfs.md)
   * [Interpreting CDFs](untitled/interpreting-cdfs.md)
   * [The Normal PDF](untitled/the-normal-pdf.md)
+  * [Normal CDF](untitled/normal-cdf.md)
 

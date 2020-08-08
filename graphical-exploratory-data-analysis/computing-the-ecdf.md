@@ -12,7 +12,9 @@ Check out this video for ECDF: [https://www.youtube.com/watch?v=ap4mfGvgDsM](htt
 
 ## Solution for Exercise: 
 
-```text
+{% tabs %}
+{% tab title="ecdf.py" %}
+```python
 def ecdf(data):
     """Compute ECDF for a one-dimensional array of measurements."""
     # Number of data points: n
@@ -27,4 +29,14 @@ def ecdf(data):
     return x, y
 
 ```
+{% endtab %}
+
+{% tab title="output" %}
+```
+
+```
+{% endtab %}
+{% endtabs %}
+
+
 

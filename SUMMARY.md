@@ -1,8 +1,6 @@
 # Table of contents
 
 * [DataCamp Solutions](README.md)
-* [Statistical Thinking in Python\(Part 1\)](statistical-thinking-in-python-part-1/README.md)
-  * [Computing the ECDF](statistical-thinking-in-python-part-1/computing-the-ecdf.md)
 
 ## Statistical Thinking in Pyton\(part 1\) <a id="statisticalthinkinginpython"></a>
 

@@ -36,5 +36,7 @@
   * [Will the bank fail?](thinking-probabilistically-discrete-variables/will-the-bank-fail.md)
   * [Sampling out of the Binomial distribution](thinking-probabilistically-discrete-variables/sampling-out-of-the-binomial-distribution.md)
   * [Plotting the Binomial PMF](thinking-probabilistically-discrete-variables/plotting-the-binomial-pmf.md)
+  * [Relationship between Binomial and Poisson distributions](thinking-probabilistically-discrete-variables/relationship-between-binomial-and-poisson-distributions.md)
+  * [How many no-hitters in a season?](thinking-probabilistically-discrete-variables/how-many-no-hitters-in-a-season.md)
 * [Untitled](untitled.md)
 

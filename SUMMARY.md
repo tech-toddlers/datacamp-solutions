@@ -35,4 +35,6 @@
   * [How many defaults might we expect?](thinking-probabilistically-discrete-variables/how-many-defaults-might-we-expect.md)
   * [Will the bank fail?](thinking-probabilistically-discrete-variables/will-the-bank-fail.md)
   * [Sampling out of the Binomial distribution](thinking-probabilistically-discrete-variables/sampling-out-of-the-binomial-distribution.md)
+  * [Plotting the Binomial PMF](thinking-probabilistically-discrete-variables/plotting-the-binomial-pmf.md)
+* [Untitled](untitled.md)
 

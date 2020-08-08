@@ -1,0 +1,2 @@
+# Thinking probabilistically-- Discrete variables
+

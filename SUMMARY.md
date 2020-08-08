@@ -25,3 +25,11 @@
   * [Computing the covariance](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-the-covariance.md)
   * [Computing the Pearson correlation coefficient](introduction-to-summary-statistics-the-sample-mean-and-median/intro/computing-the-pearson-correlation-coefficient.md)
 
+---
+
+* [Thinking probabilistically-- Discrete variables](thinking-probabilistically-discrete-variables/README.md)
+  * [What is the goal of statistical inference?](thinking-probabilistically-discrete-variables/what-is-the-goal-of-statistical-inference.md)
+  * [Why do we use the language of probability?](thinking-probabilistically-discrete-variables/why-do-we-use-the-language-of-probability.md)
+  * [Generating random numbers](thinking-probabilistically-discrete-variables/generating-random-numbers.md)
+  * [The np.random module and Bernoulli trials](thinking-probabilistically-discrete-variables/the-np.random-module-and-bernoulli-trials.md)
+
